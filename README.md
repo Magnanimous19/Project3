@@ -1,2 +1,8 @@
 # Project3
 Submission for project 3
+
+
+
+  The project I chose to upload to my portfolio was Project 3 where as a junior developer, I was tasked to create a program that analyzes a text record, calls specific items from that record, and then displays the results to the user in three different ways. Creating a program like this is extremely useful to the company by allowing them to keep an eye on their current produce inventory in this case but also to be able to update that list in real-time. 
+  Personally, I found the opening, reading, and then outputting of the text file to be the most straightforward part of the project. Looking back at Zybooks 7.1 and 7.3, I noticed I had to create a direct path to my local file in order to properly access the file. In addition, I had to look back on previous assignments to organize the individual functions and their returns to the main to create a more organized and smoother-flowing code. 
+  One part I did struggle with and had to look up online as well on Zybooks 11.4 was concerning the map containers. This tied in when creating the itemSearch class and reading/outputting of the text files. At first the text file, frequency.dat, was not properly being created only to find out in debugging that I missed the "string" after map<. Overall, I think this was a very challenging but rewarding project to work on. I like how adaptable this project is where I can use it to create similar tasks that read and output files, search text files using user inputs, as well as creating a program using functions based on user inputs. In the future, I can see this tying into databases instead of just text files to allow for more user interactions and possiblities. 
